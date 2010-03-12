@@ -3,3 +3,5 @@ CMakeCache.txt
 .DS_Store
 *.swp
 mapping
+Makefile
+cmake_install.cmake
